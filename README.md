@@ -1,6 +1,7 @@
 # Kiosk Shopping & Wishlist App
 
 This project allows users to browse items, add them to a shopping or wishlist, and receive the shopping list along with corresponding aisle numbers via email. The app is designed to enhance in-store shopping by helping customers find items easily and speed up the checkout process, all while keeping the future of retail in mind.
+- https://youtu.be/tb2XZiK5cqg
 
 ## Table of Contents
 
